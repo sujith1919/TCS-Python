@@ -1,0 +1,21 @@
+pip install --proxy=http.proxy.fmr.com:8000 xlrd
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+pip install --proxy=wcngxbin01.fmr.com:8000 netmiko
+
+pip install --proxy=proxy.jpmchase.net:8443 xlwt
+

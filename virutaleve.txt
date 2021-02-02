@@ -1,0 +1,15 @@
+cd c:\python27\scripts
+
+pip install virtualenv
+
+virtualenv project67
+
+cd project67
+
+cd scripts
+
+activate
+
+pip install xlrd
+
+deactivate

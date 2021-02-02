@@ -1,0 +1,19 @@
+0
+1
+1
+2
+3
+5
+8
+13
+21
+
+Exercise:Print all fibonacci numbers below 100
+
+Algorithm:
+
+take two variables and assign 0 and 1 to them
+print the first variable
+assign the sum of variables to the second variable
+assign the second variable value to the first variable
+

@@ -1,0 +1,9 @@
+#Some builtin functions
+min()
+max()
+abs()
+sorted()
+reversed()
+map()
+zip()
+reduce()

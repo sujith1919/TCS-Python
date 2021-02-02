@@ -1,0 +1,53 @@
+#format method.
+age = 67
+name = 'India'
+print('Hello {0} you are {1} years old'.format(name, age))
+
+#Keyword only arguments
+Declaring parameters after a starred parameter results in keyword-only arguments.
+def average(base=10, *numbers,precision):
+
+sequence: 
+Sequences allow you to store multiple values in an organized
+and efficient fashion.
+There are five kinds of sequences in Python:
+strings, lists, tuples, dictionaries, and sets
+
+#getattr - gets a reference to a function, method
+
+l=[1,2, 3]
+abc=getattr(li,"pop")
+abc()
+
+#in is not in is not
+
+#list filtering
+
+>>> li = ["a", "mpilgrim", "foo", "b", "c", "b", "d", "d"]
+>>> [i for i in li if len(i) > 1]
+
+introspection commands
+id
+dir
+help
+references
+passing tuples,lists,dict to a function
+getattr
+
+
+
+for(i=33,i<=455,i+=5)
+{
+
+printf("%d",i*i);
+
+}
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+What is a module?
+Any reusable piece of code is a module.
+How to find all the modules on my machine?
+help("modules")
+help("modules xml")
+How to import a module?
+import math
+How to import a function?
+from random import randint
+help(randint)
+How to find all functions in a module?
+dir(math)
+How to import a function from a module?
+from random import randint
+How to get help on a function inside a module?
+help(math.sqrt)
+Where are the modules stored on my system?
+lib folder
+How to create a custom module?
+How does python know where to import from?
+sys.path
+How to mention my custom module path?
+set an env variable
+PYTHONPATH=c:\ramesh
+explore modules os and sys
+Where can I find 3rd party packages?
+pypi.python.org
+How can I install a 3rd party package?
+pip install xlwt
